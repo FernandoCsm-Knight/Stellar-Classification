@@ -6,3 +6,11 @@ Welcome to the Stellar-Classification repository, the home for our machine learn
 Here, you'll find the complete code for implementing these models, performing cross-validation, and conducting T-tests to statistically validate their performance. We've meticulously crafted each model to ensure robustness and reliability in classifying celestial objects.
 
 Whether you're an astrophysicist, a data scientist, or someone passionate about the cosmos and machine learning, this repository provides you with a set of powerful tools for stellar classification. Dive into our code, explore the nuances of each model's performance, and contribute to the exciting field of astronomical data analysis.
+
+## Documento
+
+Click the following image to PDF download:
+
+<a href="docs/relatorio.pdf">
+  <img src="docs/preview.png" alt="Article Preview" width="800">
+</a>
